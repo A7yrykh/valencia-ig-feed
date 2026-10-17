@@ -113,9 +113,10 @@
    "date": "2026-10-19",
    "slot": "noon",
    "account": "shield",
-   "type": "image",
-   "file": "shield/feat-06.jpg",
-   "caption": "🎙️ Перевод голосовых\nГолосовое на другом языке? Shield расшифрует его в текст и переведёт.\nНа время тестирования все функции бесплатно — ссылка в профиле.\n\n🇬🇧 Voice message in another language? Shield transcribes and translates it. Free during beta — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy"
+   "type": "reel",
+   "file": "shield/reel-16.mp4",
+   "caption": "Скрытые чаты: не видны в списке, открываются по Face ID, а уведомления приходят без имени и текста 🙈\nСкачать бесплатно в App Store 👉 ссылка в профиле\n\n🇬🇧 Hidden chats: not in the chat list, open with Face ID, notifications without name or text. Free on the App Store — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy",
+   "cover": "shield/reel-16-cover.jpg"
   },
   {
    "date": "2026-10-20",
@@ -130,9 +131,10 @@
    "date": "2026-10-21",
    "slot": "noon",
    "account": "shield",
-   "type": "image",
-   "file": "shield/feat-07.jpg",
-   "caption": "🏠 Семейные группы\nЗакрытая группа для своих: фото, документы, заметки и ссылки — с поиском.\nНа время тестирования все функции бесплатно — ссылка в профиле.\n\n🇬🇧 A private group for your family: photos, documents, notes and links — searchable. Free during beta — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy"
+   "type": "reel",
+   "file": "shield/reel-17.mp4",
+   "caption": "Семейный архив в группе: паспорта, полисы и договоры в одном месте, с поиском по тексту на сканах. Всё зашифровано 🗂️\nСкачать бесплатно в App Store 👉 ссылка в профиле\n\n🇬🇧 Family archive in a group: passports, policies and contracts in one place, searchable and encrypted. Free on the App Store — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy",
+   "cover": "shield/reel-17-cover.jpg"
   },
   {
    "date": "2026-10-22",
@@ -146,9 +148,10 @@
    "date": "2026-10-23",
    "slot": "noon",
    "account": "shield",
-   "type": "image",
-   "file": "shield/feat-08.jpg",
-   "caption": "🌍 Связь между странами\nЗвонки и сообщения работают между странами — для тех, у кого близкие далеко.\nНа время тестирования все функции бесплатно — ссылка в профиле.\n\n🇬🇧 Calls and messages that work across borders — for those whose loved ones are far away. Free during beta — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy"
+   "type": "reel",
+   "file": "shield/reel-18.mp4",
+   "caption": "Связь пропала посреди звонка? Shield сам ищет новый путь и переключается между Wi-Fi и мобильной сетью — перезванивать не нужно 📶\nСкачать бесплатно в App Store 👉 ссылка в профиле\n\n🇬🇧 Call dropped? Shield reconnects on its own and switches between Wi-Fi and mobile data — no need to call back. Free on the App Store — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy",
+   "cover": "shield/reel-18-cover.jpg"
   },
   {
    "date": "2026-10-24",
@@ -171,9 +174,10 @@
    "date": "2026-10-26",
    "slot": "noon",
    "account": "shield",
-   "type": "image",
-   "file": "shield/feat-09.jpg",
-   "caption": "🔒 Шифрование чатов и звонков\nПереписка и звонки зашифрованы. Без рекламы и без слежки.\nНа время тестирования все функции бесплатно — ссылка в профиле.\n\n🇬🇧 Chats and calls are encrypted. No ads, no tracking. Free during beta — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy"
+   "type": "reel",
+   "file": "shield/reel-19.mp4",
+   "caption": "Сквозное шифрование чатов, групп и звонков: ключи только на ваших устройствах. Если у собеседника сменился ключ — Shield предупредит 🔐\nСкачать бесплатно в App Store 👉 ссылка в профиле\n\n🇬🇧 End-to-end encryption: keys stay on your devices, and Shield warns you if a contact's key changes. Free on the App Store — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy",
+   "cover": "shield/reel-19-cover.jpg"
   },
   {
    "date": "2026-10-27",
@@ -188,9 +192,10 @@
    "date": "2026-10-28",
    "slot": "noon",
    "account": "shield",
-   "type": "image",
-   "file": "shield/feat-10.jpg",
-   "caption": "📝 Заметки себе\nОтдельный чат с собой: ссылки, мысли, фото и списки — всё под рукой на любом устройстве.\nНа время тестирования все функции бесплатно — ссылка в профиле.\n\n🇬🇧 A chat with yourself for links, ideas, photos and lists. Free during beta — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy"
+   "type": "reel",
+   "file": "shield/reel-20.mp4",
+   "caption": "Исчезающие сообщения удаляются у всех и с сервера, а в чате можно запретить пересылку и сохранение ⏳\nСкачать бесплатно в App Store 👉 ссылка в профиле\n\n🇬🇧 Disappearing messages are deleted for everyone and from the server; you can also block forwarding and saving. Free on the App Store — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy",
+   "cover": "shield/reel-20-cover.jpg"
   },
   {
    "date": "2026-10-29",
@@ -204,18 +209,19 @@
    "date": "2026-10-30",
    "slot": "noon",
    "account": "shield",
-   "type": "image",
-   "file": "shield/feat-11.jpg",
-   "caption": "📲 Вход по QR-коду\nПозовите людей в группу одним QR-кодом или ссылкой — без обмена номерами.\nНа время тестирования все функции бесплатно — ссылка в профиле.\n\n🇬🇧 Invite people to a group with one QR code or link — no number swapping. Free during beta — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy"
+   "type": "reel",
+   "file": "shield/reel-21.mp4",
+   "caption": "Без интернета чаты открываются сразу, а сообщения, фото и голосовые ждут сети и уходят сами ✈️\nСкачать бесплатно в App Store 👉 ссылка в профиле\n\n🇬🇧 No signal? Chats open offline, and messages, photos and voice notes send themselves once you're back online. Free on the App Store — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy",
+   "cover": "shield/reel-21-cover.jpg"
   },
   {
    "date": "2026-10-31",
    "slot": "evening",
    "account": "shield",
    "type": "reel",
-   "file": "shield/reel-08.mp4",
-   "caption": "Как попасть в бету Shield за минуту: ссылка в профиле → TestFlight → вход по email 🚀\nНа время тестирования всё бесплатно 👉 ссылка в профиле\n\n🇬🇧 Join the Shield beta: link in bio → TestFlight → sign up with email. Free during testing — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy",
-   "cover": "shield/reel-08-cover.jpg"
+   "file": "shield/reel-23.mp4",
+   "caption": "Как поставить Shield за минуту: ссылка в профиле → App Store → вход по почте, номер телефона не нужен 🚀\nСкачать бесплатно в App Store 👉 ссылка в профиле\n\n🇬🇧 Install Shield in a minute: link in bio → App Store → sign in with email, no phone number needed. Free on the App Store — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy",
+   "cover": "shield/reel-23-cover.jpg"
   },
   {
    "date": "2026-11-01",
@@ -229,9 +235,10 @@
    "date": "2026-11-02",
    "slot": "noon",
    "account": "shield",
-   "type": "image",
-   "file": "shield/feat-12.jpg",
-   "caption": "🛡️ VPN в одну кнопку\nКафе, аэропорт, отель — Shield VPN шифрует трафик в любой сети одним нажатием.\nНа время тестирования все функции бесплатно — ссылка в профиле.\n\n🇬🇧 Café, airport, hotel — Shield VPN encrypts your traffic on any network with one tap. Free during beta — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy"
+   "type": "reel",
+   "file": "shield/reel-22.mp4",
+   "caption": "Скидочные карты — в Shield: отсканируйте карту камерой и показывайте штрихкод на кассе. Работает без интернета 💳\nСкачать бесплатно в App Store 👉 ссылка в профиле\n\n🇬🇧 Loyalty cards in Shield: scan with the camera, show the barcode at checkout. Works offline. Free on the App Store — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy",
+   "cover": "shield/reel-22-cover.jpg"
   },
   {
    "date": "2026-11-03",
@@ -239,7 +246,7 @@
    "account": "shield",
    "type": "reel",
    "file": "shield/reel-09.mp4",
-   "caption": "Ваш номер видят все, у кого он есть в контактах. В Shield номера нет — регистрация по email 🔒\nНа время тестирования всё бесплатно 👉 ссылка в профиле\n\n🇬🇧 Everyone who has your number can find you. Shield has no phone numbers — sign up with email. Free during testing — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy",
+   "caption": "Ваш номер видят все, у кого он есть в контактах. В Shield номера нет — регистрация по email 🔒\nСкачать бесплатно в App Store 👉 ссылка в профиле\n\n🇬🇧 Everyone who has your number can find you. Shield has no phone numbers — sign up with email. Free on the App Store — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy",
    "cover": "shield/reel-09-cover.jpg"
   },
   {
@@ -248,7 +255,7 @@
    "account": "shield",
    "type": "image",
    "file": "shield/post-13.jpg",
-   "caption": "Без номера — как это работает? Вход по почте → добавляете своих по QR-коду или логину → пишете и звоните, всё зашифровано 🔒\nНа время тестирования всё бесплатно 👉 ссылка в профиле\n\n🇬🇧 No phone number — how it works: sign up with email, add people by QR code or username, chat and call. Free during testing — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy"
+   "caption": "Без номера — как это работает? Вход по почте → добавляете своих по QR-коду или логину → пишете и звоните, всё зашифровано 🔒\nСкачать бесплатно в App Store 👉 ссылка в профиле\n\n🇬🇧 No phone number — how it works: sign up with email, add people by QR code or username, chat and call. Free on the App Store — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy"
   },
   {
    "date": "2026-11-05",
@@ -256,7 +263,7 @@
    "account": "shield",
    "type": "reel",
    "file": "shield/reel-10.mp4",
-   "caption": "Звонки родным без обрывов: из Европы в Россию Shield работает без VPN 📞\nНа время тестирования всё бесплатно 👉 ссылка в профиле\n\n🇬🇧 Calls to family that don't drop: Shield works from Europe to Russia without a VPN. Free during testing — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy",
+   "caption": "Звонки родным без обрывов: из Европы в Россию Shield работает без VPN 📞\nСкачать бесплатно в App Store 👉 ссылка в профиле\n\n🇬🇧 Calls to family that don't drop: Shield works from Europe to Russia without a VPN. Free on the App Store — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy",
    "cover": "shield/reel-10-cover.jpg"
   },
   {
@@ -265,7 +272,7 @@
    "account": "valencia",
    "type": "image",
    "file": "valencia/shield-ad-09.jpg",
-   "caption": "📞 Звонок в Россию снова оборвался?\n\nВ Shield звонки из Европы в Россию работают без VPN — и без номера телефона.\n\nShield — мессенджер без номера телефона. Сейчас идёт бесплатное тестирование: ссылка в профиле @shield.messenger 👉\n\n#реклама #shield #валенсия #русскиевваленсии #русскиевиспании"
+   "caption": "📞 Звонок в Россию снова оборвался?\n\nВ Shield звонки из Европы в Россию работают без VPN — и без номера телефона.\n\nShield — мессенджер без номера телефона. Бесплатно в App Store: ссылка в профиле @shield.messenger 👉\n\n#реклама #shield #валенсия #русскиевваленсии #русскиевиспании"
   },
   {
    "date": "2026-11-07",
@@ -273,7 +280,7 @@
    "account": "shield",
    "type": "reel",
    "file": "shield/reel-11.mp4",
-   "caption": "WhatsApp, Telegram и Signal просят номер телефона. Shield — нет: регистрация по email ✉️\nНа время тестирования всё бесплатно 👉 ссылка в профиле\n\n🇬🇧 WhatsApp, Telegram and Signal ask for your phone number. Shield doesn't — sign up with email. Free during testing — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy",
+   "caption": "WhatsApp, Telegram и Signal просят номер телефона. Shield — нет: регистрация по email ✉️\nСкачать бесплатно в App Store 👉 ссылка в профиле\n\n🇬🇧 WhatsApp, Telegram and Signal ask for your phone number. Shield doesn't — sign up with email. Free on the App Store — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy",
    "cover": "shield/reel-11-cover.jpg"
   },
   {
@@ -282,7 +289,7 @@
    "account": "shield",
    "type": "image",
    "file": "shield/post-14.jpg",
-   "caption": "Shield без номера — 4 главных вопроса. Остались ещё? Пишите в комментарии 👇\nНа время тестирования всё бесплатно 👉 ссылка в профиле\n\n🇬🇧 Shield without a phone number — 4 key questions answered. Free during testing — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy"
+   "caption": "Shield без номера — 4 главных вопроса. Остались ещё? Пишите в комментарии 👇\nСкачать бесплатно в App Store 👉 ссылка в профиле\n\n🇬🇧 Shield without a phone number — 4 key questions answered. Free on the App Store — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy"
   },
   {
    "date": "2026-11-09",
@@ -290,7 +297,7 @@
    "account": "shield",
    "type": "reel",
    "file": "shield/reel-12.mp4",
-   "caption": "Родителям не нужен VPN: звонки в Shield из Европы в Россию работают без него 👵📞\nНа время тестирования всё бесплатно 👉 ссылка в профиле\n\n🇬🇧 Your parents don't need a VPN: Shield calls from Europe to Russia work without one. Free during testing — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy",
+   "caption": "Родителям не нужен VPN: звонки в Shield из Европы в Россию работают без него 👵📞\nСкачать бесплатно в App Store 👉 ссылка в профиле\n\n🇬🇧 Your parents don't need a VPN: Shield calls from Europe to Russia work without one. Free on the App Store — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy",
    "cover": "shield/reel-12-cover.jpg"
   },
   {
@@ -299,7 +306,7 @@
    "account": "valencia",
    "type": "image",
    "file": "valencia/shield-ad-10.jpg",
-   "caption": "🔒 Ваш +34 знают все\n\nАрендодатель, агент, чат подъезда… В Shield номер телефона не нужен — регистрация по email.\n\nShield — мессенджер без номера телефона. Сейчас идёт бесплатное тестирование: ссылка в профиле @shield.messenger 👉\n\n#реклама #shield #валенсия #русскиевваленсии #русскиевиспании"
+   "caption": "🔒 Ваш +34 знают все\n\nАрендодатель, агент, чат подъезда… В Shield номер телефона не нужен — регистрация по email.\n\nShield — мессенджер без номера телефона. Бесплатно в App Store: ссылка в профиле @shield.messenger 👉\n\n#реклама #shield #валенсия #русскиевваленсии #русскиевиспании"
   },
   {
    "date": "2026-11-11",
@@ -307,7 +314,7 @@
    "account": "shield",
    "type": "reel",
    "file": "shield/reel-13.mp4",
-   "caption": "Как понять, что звонок не прослушивают? В Shield сверьте 4 эмодзи с собеседником — совпали, значит посередине никого нет 🔐 А если ключ подменили, Shield сам покажет «Возможна прослушка».\nНа время тестирования всё бесплатно 👉 ссылка в профиле\n\n🇬🇧 How do you know nobody is listening? Compare 4 emojis with the other person — if they match, nobody is in the middle. Free during testing — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy",
+   "caption": "Как понять, что звонок не прослушивают? В Shield сверьте 4 эмодзи с собеседником — совпали, значит посередине никого нет 🔐 А если ключ подменили, Shield сам покажет «Возможна прослушка».\nСкачать бесплатно в App Store 👉 ссылка в профиле\n\n🇬🇧 How do you know nobody is listening? Compare 4 emojis with the other person — if they match, nobody is in the middle. Free on the App Store — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy",
    "cover": "shield/reel-13-cover.jpg"
   },
   {
@@ -316,7 +323,7 @@
    "account": "shield",
    "type": "image",
    "file": "shield/post-15.jpg",
-   "caption": "Поставьте Shield родителям за 3 шага: ссылка в профиле → установка → вход по почте. И включите «Режим заботы» — крупный текст и простое меню 📲\nНа время тестирования всё бесплатно 👉 ссылка в профиле\n\n🇬🇧 Install Shield for your parents in 3 steps: link in bio → install → sign in with email. Turn on Care mode for large text. Free during testing — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy"
+   "caption": "Поставьте Shield родителям за 3 шага: ссылка в профиле → App Store → вход по почте. И включите «Режим заботы» — крупный текст и простое меню 📲\nСкачать бесплатно в App Store 👉 ссылка в профиле\n\n🇬🇧 Install Shield for your parents in 3 steps: link in bio → App Store → sign in with email. Turn on Care mode for large text. Free on the App Store — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy"
   },
   {
    "date": "2026-11-13",
@@ -324,7 +331,7 @@
    "account": "shield",
    "type": "reel",
    "file": "shield/reel-14.mp4",
-   "caption": "Спам и «служба безопасности банка» начинаются с номера телефона. В Shield его нет 🛡️\nНа время тестирования всё бесплатно 👉 ссылка в профиле\n\n🇬🇧 Spam and scam calls start with your phone number. Shield doesn't have one. Free during testing — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy",
+   "caption": "Спам и «служба безопасности банка» начинаются с номера телефона. В Shield его нет 🛡️\nСкачать бесплатно в App Store 👉 ссылка в профиле\n\n🇬🇧 Spam and scam calls start with your phone number. Shield doesn't have one. Free on the App Store — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy",
    "cover": "shield/reel-14-cover.jpg"
   },
   {
@@ -333,7 +340,7 @@
    "account": "valencia",
    "type": "image",
    "file": "valencia/shield-ad-11.jpg",
-   "caption": "✉️ Что нужно для регистрации?\n\nWhatsApp, Telegram и Signal просят номер телефона. Shield — только email.\n\nShield — мессенджер без номера телефона. Сейчас идёт бесплатное тестирование: ссылка в профиле @shield.messenger 👉\n\n#реклама #shield #валенсия #русскиевваленсии #русскиевиспании"
+   "caption": "✉️ Что нужно для регистрации?\n\nWhatsApp, Telegram и Signal просят номер телефона. Shield — только email.\n\nShield — мессенджер без номера телефона. Бесплатно в App Store: ссылка в профиле @shield.messenger 👉\n\n#реклама #shield #валенсия #русскиевваленсии #русскиевиспании"
   },
   {
    "date": "2026-11-15",
@@ -341,7 +348,7 @@
    "account": "shield",
    "type": "reel",
    "file": "shield/reel-15.mp4",
-   "caption": "3 причины поставить Shield родителям: звонки из Европы в Россию без VPN, «Режим заботы» с крупным текстом и простым меню, и никакого номера телефона 👨‍👩‍👧\nНа время тестирования всё бесплатно 👉 ссылка в профиле\n\n🇬🇧 3 reasons to install Shield for your parents: calls without VPN, Care mode with large text and a simple menu, no phone number. Free during testing — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy",
+   "caption": "3 причины поставить Shield родителям: звонки из Европы в Россию без VPN, «Режим заботы» с крупным текстом и простым меню, и никакого номера телефона 👨‍👩‍👧\nСкачать бесплатно в App Store 👉 ссылка в профиле\n\n🇬🇧 3 reasons to install Shield for your parents: calls without VPN, Care mode with large text and a simple menu, no phone number. Free on the App Store — link in bio.\n\n#shield #мессенджер #приватность #messenger #privacy",
    "cover": "shield/reel-15-cover.jpg"
   },
   {
@@ -350,7 +357,7 @@
    "account": "valencia",
    "type": "image",
    "file": "valencia/shield-ad-12.jpg",
-   "caption": "📸 Письмо из Ayuntamiento на испанском?\n\nВ Shield есть «Сканировать и перевести»: наведите камеру на документ, меню или вывеску — перевод появится прямо на телефоне.\n\nShield — мессенджер без номера телефона. Сейчас идёт бесплатное тестирование: ссылка в профиле @shield.messenger 👉\n\n#реклама #shield #валенсия #русскиевваленсии #русскиевиспании"
+   "caption": "📸 Письмо из Ayuntamiento на испанском?\n\nВ Shield есть «Сканировать и перевести»: наведите камеру на документ, меню или вывеску — перевод появится прямо на телефоне.\n\nShield — мессенджер без номера телефона. Бесплатно в App Store: ссылка в профиле @shield.messenger 👉\n\n#реклама #shield #валенсия #русскиевваленсии #русскиевиспании"
   }
  ]
 }
